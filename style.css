@@ -1,0 +1,15 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.number{
+    width: 100px;
+}
